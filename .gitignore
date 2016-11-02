@@ -1,5 +1,5 @@
 # R Bookdown
-*.html
+*.rds
 
 # History files
 .Rhistory
