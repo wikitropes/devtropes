@@ -8,7 +8,9 @@ rmd_files: [
   "tropes.Rmd",
   "developer.Rmd",
   "devculture.Rmd",
-  "unclassified.Rmd"
+  "unclassified.Rmd",
+
+  "works.Rmd"
 ]
 
 output_dir: "docs"
