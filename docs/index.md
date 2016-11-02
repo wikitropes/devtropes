@@ -7,7 +7,6 @@ site: bookdown::bookdown_site
 documenclass: book
 ---
 
-# Welcome
+# Welcome {#welcome}
 
 __데브트로프__ 에 오신 것을 환영합니다.
-
