@@ -1,0 +1,1 @@
+# 미분류 비유 {#unclassified-tropes}

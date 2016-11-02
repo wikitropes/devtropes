@@ -2,8 +2,13 @@ new_session: yes
 
 rmd_files: [
   "index.Rmd",
-  "intro.Rmd"
+
+  "intro.Rmd",
+
+  "tropes.Rmd",
+  "developer.Rmd",
+  "devculture.Rmd",
+  "unclassified.Rmd"
 ]
 
-before_chapter_script: "_common.R"
 output_dir: "docs"

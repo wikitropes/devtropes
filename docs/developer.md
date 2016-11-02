@@ -1,0 +1,1 @@
+# 개발자 비유 {#developer-tropes}

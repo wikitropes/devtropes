@@ -9,3 +9,6 @@ bookdown::gitbook:
       text: "Edit"
     sharing: no
   css: devtropes.css
+  toc_depth: 3
+  toc_unnumbered: no
+  split_by: section
