@@ -1,0 +1,11 @@
+bookdown::gitbook:
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><strong><a href="./">Dev Tropes</a></strong></li>
+    edit:
+      link: https://github.com/zedoul/devtropes/edit/master/%s
+      text: "Edit"
+    sharing: no
+  css: devtropes.css
