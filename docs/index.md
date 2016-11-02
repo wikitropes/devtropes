@@ -4,7 +4,7 @@ knit: "bookdown::render_book"
 title: "Dev Trope"
 description: "(blank)"
 site: bookdown::bookdown_site
-documentclass: book
+documenclass: book
 ---
 
 # Welcome
