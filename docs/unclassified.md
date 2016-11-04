@@ -32,6 +32,23 @@ vi와 emacs 의 라이벌 매치.
 
 단순히 선호하는 소프트웨어 취향의 문제 이전에 철학의 차이기도 하다. 하나만 잘하는 도구와 여러 개를 다 지원하는 도구.
 
+## bot {#bot}
+
+## BLOB {#BLOB}
+Binary Large OBject
+
+## C&C {#C-and-C}
+
+Coffee & Cats
+
+## camelCase {#camelCase}
+
+본래 파스칼에 있다가 자바에서 살아남았다
+
+## evil {#evil}
+
+
+
 ## 바닐라 {#vanila}
 vanilla
 
