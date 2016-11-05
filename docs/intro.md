@@ -14,4 +14,6 @@
 
 둘째는 결과물 분류이다. 여기서 결과물이란 개발과 관련된 모든 작업 결과물들을 의미한다. 개발 도구, 프로젝트, 개발 방법론, 개발 회사 기타 등등 모두가 이에 포함될 수 있다. 구체적인 예를 들자면 프로그래밍 언어 혹은 애자일 서적과 같은 것이 여기에 해당한다. 비유 분류 문서들을 설명하기 위한 보조 문서 목적으로 작성한다.
 
-해당 위키의 모델은 [TV Tropes](http://tvtropes.org/)와 [The Jargon File](http://catb.org/jargon/html/)이다.
+해당 위키의 모델은 [TV Tropes](http://tvtropes.org/)와 [The Jargon File](http://catb.org/jargon/html/)이다. 기타 참고하는 사이트로는 다음의 사이트들이 있다.
+
+* [기술자용 스택오버플로우](http://softwareengineering.stackexchange.com/questions/tagged/history)
