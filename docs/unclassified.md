@@ -58,8 +58,7 @@ vi와 emacs 의 라이벌 매치.
 ## BLOB {#BLOB}
 Binary Large OBject
 
-## C&C {#C-and-C}
-
+## C&C {#C-ampersand-C}
 Coffee & Cats
 
 ## camelCase {#camelCase}
@@ -114,4 +113,11 @@ This time, for sure!
 사망플래그
 
 특히 주변에 사람을 세워놓고 디버깅하면 좀 미안하기도 하고해서 저런 주문을 자주 외우곤 한다.
+
+## workaround {#workaround}
+개발시 필요에 의해 특정 문제를 회피하는 구현 방안이다. 추후 제대로 된 방식으로 수정될 대상이기도. 버그 수정이 workaround 인지 fix 인지 구분하는 것은 코드리뷰에서 중요한 포인트 중 하나이다. 그럼에도 보통 hotfix 가 실은 hot-workaround인 것이 현실. 비슷한 용어로 [kluge](#kluge) 참조.
+
+## metasyntactic variable {#metasyntactic-variable}
+https://en.wikipedia.org/wiki/Metasyntactic_variable
+http://catb.org/jargon/html/M/metasyntactic-variable.html
 

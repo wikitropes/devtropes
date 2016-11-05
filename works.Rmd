@@ -15,6 +15,19 @@ Aluminum Book, Camel Book, Cinderella Book, daemon book, Dragon Book, Orange Boo
 
 # 웹사이트 {#websites}
 
+## 트위터 {#Twitter}
+Twitter
+
+## GitHub {#GitHub}
+
+## WikiWikiWeb {#WikiWikiWeb}
+http://wiki.c2.com/
+https://github.com/WardCunningham/remodeling
+
+### Tropes
+* [CamelCase](#CamelCase)
+
 # (PART) 개발자 {-}
 # 프로그래머 {#programmers}
-## Eric Steven Raymond {#Eric-Raymond}
+## 에릭 레이몬드 {#Eric-Raymond}
+Eric Steven Raymond
