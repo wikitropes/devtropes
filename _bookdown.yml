@@ -8,6 +8,7 @@ rmd_files: [
   "tropes.Rmd",
   "developer.Rmd",
   "devculture.Rmd",
+  "holywar.Rmd",
   "unclassified.Rmd",
 
   "works.Rmd"
