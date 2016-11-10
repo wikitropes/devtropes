@@ -1,8 +1,5 @@
 # 미분류 비유 {#unclassified-tropes}
 
-## 0번째 {#zeroth}
-일상어로 첫번째를 의미. C나 리스프 같은 초기 언어는 물론 하드웨어부터 1이 아니라 0부터 세는데 익숙해지다보니 저렇게 표현하곤 한다. 가령 0-255 는 일상어로 1-256을 의미한다.
-
 ## 자윈스키 법칙 {#Zawinskis-law}
 > “Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.”
 > 모든 프로그램은 이메일 기능이 포함될때까지 불어난다. 사용자들은 그런 기능이 없는 프로그램들 대신에 
@@ -32,9 +29,6 @@ Binary Large OBject
 ## C&C {#C-ampersand-C}
 Coffee & Cats
 
-## camelCase {#camelCase}
-본래 파스칼에 있다가 자바에서 살아남았다
-
 ## evil {#evil}
 똑똑한 사람이 잘못된 방향에 꽂혀서 멋지지만 이상한 설계 혹은 코딩을 한 경우
 
@@ -52,9 +46,6 @@ GUI 혹은 하드웨어만 봐서는 잘 드러나지 않는 구현의 핵심을
 vanilla
 
 옛날엔 아이스크림이 바닐라를 기초로 뭐가 추가되는 식으로 소비자들에게 제공되었다. 한 마디로 순정판.
-
-## 갓언어 {#god-language}
-~~php~~
 
 ## RTFM {#RTFM}
 Read The Fucking Manual
@@ -92,3 +83,5 @@ This time, for sure!
 https://en.wikipedia.org/wiki/Metasyntactic_variable
 http://catb.org/jargon/html/M/metasyntactic-variable.html
 
+## critical mass {#critical-mass}
+In physics, the minimum amount of fissionable material required to sustain a chain reaction. Of a software product, describes a condition of the software such that fixing one bug introduces one plus epsilon bugs. When software achieves critical mass, it can never be fixed; it can only be discarded and rewritten.

@@ -1,5 +1,11 @@
 # (PART) 결과물 {-}
 
+# OS {#os}
+## Macintrash {#macintrash}
+The Apple Macintosh, as described by a hacker who doesn't appreciate being kept away from the real computer by the interface.
+
+## Macintoy {#macintoy}
+
 # 서적 {#books}
 Aluminum Book, Camel Book, Cinderella Book, daemon book, Dragon Book, Orange Book, Purple Book, Wizard Book, and bible
 

@@ -23,3 +23,9 @@ Dogfooding
 
 많은 프로그래밍 혁신은 "yak shaving" 의 결과로 나타난다. 유닉스의 경우도 다소 단순화시켜 이야기하자면 벨 연구소의 켄 톰슨이 "Space Travel" 게임을 계속 하려고 PDP-7 로 포팅하다가 만들게된 측면이 있다.
 
+## 콘웨이의 법칙 {#Conways-Law}
+> If you have four groups working on a compiler, you'll get a 4-pass compiler
+
+> Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
+
+> If a group of N persons implements a COBOL compiler, there will be N-1 passes. Someone in the group has to be the manager.

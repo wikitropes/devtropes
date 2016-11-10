@@ -20,3 +20,10 @@
 * [Other Resources Related to the Jargon File](http://catb.org/jargon/related.html)
 * [WikiWikiWeb](#WikiWikiWeb)
 
+# 번역문제 {-}
+번역은 영어를 잘못하는 사람이 편하게 읽을 수 있도록 다시 작성한 글을 의미한다.
+
+즉 익숙한 한국어는 한국어로, 익숙한 영어는 영어로 번역하면 된다.
+만약 한국어 혹은 영어가 어색하다면 그건 그게 좋은 번역이 아니라는 것이지 한국어나 영어의 문제가 아니다.
+
+https://harfangk.github.io/2016/07/09/stop-translating-programming-terms-ko.html 도 참고하자
