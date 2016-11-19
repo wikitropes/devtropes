@@ -9,7 +9,10 @@ rmd_files: [
   "developer.Rmd",
   "pl.Rmd",
   "devculture.Rmd",
+  "gui.Rmd",
   "holywar.Rmd",
+  "english.Rmd",
+  "communication.Rmd",
   "unclassified.Rmd",
 
   "works.Rmd"

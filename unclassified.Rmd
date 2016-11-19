@@ -1,5 +1,21 @@
 # 미분류 비유 {#unclassified-tropes}
 
+## 비행기 법칙 {#airplane-rule}
+Airplane rule
+
+> “Complexity increases the possibility of failure; a twin-engine airplane has twice as many engine problems as a single-engine airplane.”
+
+단순한 디자인이 견고한 소프트웨어를 만든다는 이야기.
+
+## 무한루프 {#Infinite-loop}
+Infinite loop
+
+## Alderson loop {#Alderson-loop}
+Alderson loop
+
+GUI의 구현 문제로 인해서 무한루프에 빠지는 경우를 말한다.
+지금은 Infinite loop 이긴 인데 exit condition 을 만들어놨지만 어쩌다보니 해당 컨디션이 발동하지 않는 경우를 말한다.
+
 ## 자윈스키 법칙 {#Zawinskis-law}
 > “Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.”
 > 모든 프로그램은 이메일 기능이 포함될때까지 불어난다. 사용자들은 그런 기능이 없는 프로그램들 대신에 
