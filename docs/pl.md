@@ -20,3 +20,6 @@ C 계열 언어에서 주로 사용. 예외라면 ObjC 가 있다.
 
 ## 갓언어 {#god-language}
 ~~php~~
+
+* http://noraesae.github.io/PHP-a-fractal-of-bad-design-kr/
+* https://www.tokyobranch.net/archives/6693

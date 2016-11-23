@@ -1,5 +1,8 @@
 # 미분류 비유 {#unclassified-tropes}
 
+## 둠 {#Doom}
+존 카맥의 업적 - 디스플레이와 입력장치가 있는 모든 컴퓨터라고 불릴 수 있을 것 같은 장치가 컴퓨터인지 확인 하는 수단으로 쓰이는 둠을 개발.
+
 ## 비행기 법칙 {#airplane-rule}
 Airplane rule
 
