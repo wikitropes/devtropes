@@ -29,3 +29,48 @@ Dogfooding
 > Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
 
 > If a group of N persons implements a COBOL compiler, there will be N-1 passes. Someone in the group has to be the manager.
+
+## 바퀴부터 다시 만들기 {#Reinventing-the-wheel}
+
+이미 있는 것을 가져다 쓰라는 이야기
+
+즉 Best practice 를 잘 연구하고 찾아서 사용하라는 이야기이다.
+
+바퀴를 다시 만드는 경우는 여러 이유가 있다.
+
+* [Not invented here](#Not-invented-here): 해당 조직에서 만들어지지 않은 구현물은 과소평가되는 경향이 있다.
+* Design around: 특허를 피하기 위한 구현 접근
+
+https://pbs.twimg.com/media/CMyiLuKUwAA6l-V.jpg
+
+## Stovepipe system {#Stovepipe-system}
+> systems procured and developed to solve a specific problem, characterized by a limited focus and functionality, and containing data that cannot be easily shared with other systems
+
+공유하라고 만들어놓은 시스템 인데 오히려 정보 교류를 막고 독점하는 용도로 활용되는 시스템을 가리키는 말.
+
+## 여기서 나온게 아니잖아 {#Not-invented-here}
+혹은 NIH 증후군.
+
+## 네모바퀴 만들기 {#Reinventing-the-square-wheel}
+
+쉽고 간단하겠지하고 대충 만들면서 접근하다가 바로 anti pattern 에 빠져서 시간 낭비하는 경우를 의미. 관련자료 조사를 안하면 흔히 빠지곤 하는 초보적인 실수를 지적.
+
+## 거인의 어깨에 올라섰을 뿐이지요 {#Standing-on-the-shoulders-of-giants}
+
+> "우리는 거인들의 어깨 위에 올라선 난쟁이들과 같기 때문에 고대인들보다 더 많이 그리고 더 멀리 볼 수 있다." --- 장 폴 샤르트르
+
+http://rayspace.tistory.com/543
+
+## 루드 골드버그식 기계 {#Rube-Goldberg-machine}
+
+http://www.theleonardo.org/wp-content/uploads/2015/05/rube-goldberg.jpg
+
+되게 간단한 문제를 굉장히 복잡한 방법으로 해결하는 제품을 의미한다.
+루드 골드버그라는 만화가가 흔히 만화 내에 등장시키곤 했던 기계들이 어원
+
+## Anti-pattern {#Anti-pattern}
+
+해당 문제를 더 어렵고 비효율적으로 푸는 방법론
+
+* [evil](#evil)
+* [Rube Goldberg machine](#Rube-Goldberg-machine)
