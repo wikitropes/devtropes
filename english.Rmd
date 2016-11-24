@@ -1,6 +1,8 @@
 # 영어 비유 {#english-tropes}
 
-> As an American and native English-speaker myself, I have previously been reluctant to suggest this, lest it be taken as a sort of cultural imperialism. But several native speakers of other languages have urged me to point out that English is the working language of the hacker culture and the Internet, and that you will need to know it to function in the hacker community --- [How to Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html#skills4)
+> If you don't have functional English, learn it: as an American and native English-speaker myself, I have previously been reluctant to suggest this, lest it be taken as a sort of cultural imperialism. But several native speakers of other languages have urged me to point out that English is the working language of the hacker culture and the Internet, and that you will need to know it to function in the hacker community --- [How to Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html#skills4)
+
+개발자에게 영어는 매우 중요하다. 애초에 영어로 변수들의 이름을 정하지 못한다면 프로그래밍을 할 수 없다. 프로그래밍을 떠나서 설명하고 질문하고 답하는 모든 일에 영어의 사용이 필요하다. 실제로 외국인을 만나지 않더라도 해당 지식들이 영어사용자 커뮤니티들에 모여있기 때문에 검색만이라도 영어로 할 수 있어야 한다. API 문서들도 영어로만 작성되어 있는 경우가 많다.
 
 이게 또 그냥 영어만 잘하는 걸 떠나서 해커들끼리만 쓰이는 영어표현이 있다. 가령 일상어에서의 [evil](#evil)과 해커 영어에서의 evil의 뜻 차이는 천차만별이다.
 
