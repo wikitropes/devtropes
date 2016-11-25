@@ -1,5 +1,21 @@
 # 프로그래밍 언어 비유 {#programming-language-tropes}
 
+## hello, world {#helloworld}
+
+```
+#include <stdio.h>
+
+main( )
+{
+        printf("hello, world\n");
+}
+```
+
+브라이언 케니건이 The C Programming Language 서적에서 작성한 최초의 hello, world 프로그램.
+
+위와 같이 정석은 `hello, world` 지만 뭐 애초에 stdout 을 사용해본다는데 의미가 있기 때문에 `안녕 세상아`, `Hello World!`, ~~`asdfsdfdsf`~~ 등의 여러가지 구현 방식을 볼 수 있다.
+
+
 ## 0번째 {#zeroth}
 일상어로 첫번째를 의미. C나 리스프 같은 초기 언어는 물론 하드웨어부터 1이 아니라 0부터 세는데 익숙해지다보니 저렇게 표현하곤 한다. 가령 0-255 는 일상어로 1-256을 의미한다.
 

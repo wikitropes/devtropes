@@ -16,9 +16,12 @@
 
 해당 위키의 컨텐츠는 [The Jargon File](http://catb.org/jargon/html/)에 기반한다. 모델은 [TV Tropes](http://tvtropes.org/). 기타 참고하는 사이트로는 다음의 사이트들이 있다.
 
+* [위키피디아 SW folklore](https://en.wikipedia.org/wiki/Category:Software_engineering_folklore)
+* [위키피디아 플밍 folklore ](https://en.wikipedia.org/wiki/Category:Computer_programming_folklore)
 * [기술자용 스택오버플로우](http://softwareengineering.stackexchange.com/questions/tagged/history)
 * [Other Resources Related to the Jargon File](http://catb.org/jargon/related.html)
 * [WikiWikiWeb](#WikiWikiWeb)
+* [pcmag encyclopedia](http://www.pcmag.com/encyclopedia)
 
 # 번역문제 {-}
 번역은 영어를 잘못하는 사람이 편하게 읽을 수 있도록 다시 작성한 글을 의미한다.
