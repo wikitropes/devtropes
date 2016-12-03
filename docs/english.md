@@ -30,3 +30,30 @@
 ## under the hood {#under-the-hood}
 GUI 혹은 하드웨어만 봐서는 잘 드러나지 않는 구현의 핵심을 소개할 때 쓰는 표현.
 일부러 영어 표현 그대로 작성.
+
+
+## workaround {#workaround}
+개발시 필요에 의해 특정 문제를 회피하는 구현 방안이다. 추후 제대로 된 방식으로 수정될 대상이기도. 버그 수정이 workaround 인지 fix 인지 구분하는 것은 코드리뷰에서 중요한 포인트 중 하나이다. 그럼에도 보통 hotfix 가 실은 hot-workaround인 것이 현실. 비슷한 용어로 [kluge](#kluge) 참조.
+
+## metasyntactic variable {#metasyntactic-variable}
+https://en.wikipedia.org/wiki/Metasyntactic_variable
+http://catb.org/jargon/html/M/metasyntactic-variable.html
+
+## critical mass {#critical-mass}
+In physics, the minimum amount of fissionable material required to sustain a chain reaction. Of a software product, describes a condition of the software such that fixing one bug introduces one plus epsilon bugs. When software achieves critical mass, it can never be fixed; it can only be discarded and rewritten.
+
+
+## 그럼 하지 말라고 {#Don-t-do-that-then}
+Don't do that then!
+
+
+## C&C {#C-ampersand-C}
+Coffee & Cats
+
+## user-friendly {#user-friendly}
+사용자를 위한다는 명목. 정작 그 사용자는 자신이 뭘 원하는지 확실하게 모르기 때문에 제품을 완성하기가 무척 어렵게 된다. 프로그래머는 저 표현은 개발의 주도권을 넘겨준다는 의미로 받아들이고, 해당 주장은 조소와 비아냥의 대상이 되곤 한다.
+
+## 바닐라 {#vanila}
+vanilla
+
+옛날엔 아이스크림이 바닐라를 기초로 뭐가 추가되는 식으로 소비자들에게 제공되었다. 한 마디로 순정판.

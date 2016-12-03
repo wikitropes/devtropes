@@ -1,7 +1,14 @@
 # 미분류 비유 {#unclassified-tropes}
 
-## 둠 {#Doom}
-존 카맥의 업적 - 디스플레이와 입력장치가 있는 모든 컴퓨터라고 불릴 수 있을 것 같은 장치가 컴퓨터인지 확인 하는 수단으로 쓰이는 둠을 개발.
+
+## 튜링 테스트 {#Turing-test}
+
+Turing test
+
+자신과 대화하는 상대는 과연 사람일까 인공지능일까? 해당 인공지능의 성숙도를 채팅을 통해 확인하는 가설검정 방법을 의미한다.
+
+## 카맥 테스트 {#Carmack-test}
+존 카맥의 업적 --- 디스플레이와 입력장치가 있는 모든 컴퓨터라고 불릴 수 있을 것 같은 장치가 컴퓨터인지 확인 하는 수단으로 쓰이는 둠을 개발.
 
 ## 비행기 법칙 {#airplane-rule}
 Airplane rule
@@ -45,24 +52,11 @@ GUI의 구현 문제로 인해서 무한루프에 빠지는 경우를 말한다.
 ## BLOB {#BLOB}
 Binary Large OBject
 
-## C&C {#C-ampersand-C}
-Coffee & Cats
-
-## user-friendly {#user-friendly}
-사용자를 위한다는 명목. 정작 그 사용자는 자신이 뭘 원하는지 확실하게 모르기 때문에 제품을 완성하기가 무척 어렵게 된다. 프로그래머는 저 표현은 개발의 주도권을 넘겨준다는 의미로 받아들이고, 해당 주장은 조소와 비아냥의 대상이 되곤 한다.
-
-## 바닐라 {#vanila}
-vanilla
-
-옛날엔 아이스크림이 바닐라를 기초로 뭐가 추가되는 식으로 소비자들에게 제공되었다. 한 마디로 순정판.
-
 ## RTFM {#RTFM}
 Read The Fucking Manual
 
 시간 낭비인 쓸때없는 질문들을 까기 위해서 사용하곤 하는 문장.
 
-## 그럼 하지 말라고 {#Don-t-do-that-then}
-Don't do that then!
 
 ## 죽음의 블루스크린 {#BSOD}
 Blue Screen of Death
@@ -85,12 +79,12 @@ This time, for sure!
 
 특히 주변에 사람을 세워놓고 디버깅하면 좀 미안하기도 하고해서 저런 주문을 자주 외우곤 한다.
 
-## workaround {#workaround}
-개발시 필요에 의해 특정 문제를 회피하는 구현 방안이다. 추후 제대로 된 방식으로 수정될 대상이기도. 버그 수정이 workaround 인지 fix 인지 구분하는 것은 코드리뷰에서 중요한 포인트 중 하나이다. 그럼에도 보통 hotfix 가 실은 hot-workaround인 것이 현실. 비슷한 용어로 [kluge](#kluge) 참조.
+## 버스 팩터 {#bus-factor}
 
-## metasyntactic variable {#metasyntactic-variable}
-https://en.wikipedia.org/wiki/Metasyntactic_variable
-http://catb.org/jargon/html/M/metasyntactic-variable.html
+bus factor 혹은 truck factor
 
-## critical mass {#critical-mass}
-In physics, the minimum amount of fissionable material required to sustain a chain reaction. Of a software product, describes a condition of the software such that fixing one bug introduces one plus epsilon bugs. When software achieves critical mass, it can never be fixed; it can only be discarded and rewritten.
+"만약에 우리 팀들 중 일부가 트럭에 치여버렸다고 치자. 과연 프로젝트는 굴러갈 수 있을까?"
+
+뭐 딱히 버스거나 트럭일 필요는 없다. 퇴직하거나, 이직하거나 혹은 아이를 가지거나, 그냥 사람이 갑자기 변해버렸다거나 여러 가지 요인이 있을 수 있다. 중요한 것은 프로젝트 정보가 얼마나 공유되며, 구현 및 유지보수를 책임질 수 있는 능력이 어떻게 분배되어 있느냐는 것이다. 즉, 이 질문은 프로젝트 수행팀의 성숙도를 평가한다. 해당 factor 가 높을 수록 해당 프로젝트는 안정적.
+
+많은 오픈소스가 이 경우에 해당한다. 이를 다룬 [블로그](https://medium.com/@aserg.ufmg/what-is-the-truck-factor-of-github-projects-bb0d5f019a6f#.n5ifpggh6)를 확인해보자.

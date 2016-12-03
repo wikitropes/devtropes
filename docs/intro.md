@@ -18,6 +18,7 @@
 
 * [위키피디아 SW folklore](https://en.wikipedia.org/wiki/Category:Software_engineering_folklore)
 * [위키피디아 플밍 folklore ](https://en.wikipedia.org/wiki/Category:Computer_programming_folklore)
+* [위키피디아 컴퓨터용어](https://en.wikipedia.org/wiki/Category:Computing_terminology)
 * [기술자용 스택오버플로우](http://softwareengineering.stackexchange.com/questions/tagged/history)
 * [Other Resources Related to the Jargon File](http://catb.org/jargon/related.html)
 * [WikiWikiWeb](#WikiWikiWeb)
