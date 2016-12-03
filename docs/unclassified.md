@@ -73,9 +73,24 @@ Wintendo
 이런 자세가 지나치면 리눅스에 오픈오피스를 쓰면 되는데 왜 윈도우에 오피스를 쓰느냐까지 갈 수도 있다.
 
 ## 이번엔 진짜 됩니다 {#This-time-for-sure}
-This time, for sure!
+
+> "Hey Rocky! Watch me pull a rabiit out of my hat!"
+>
+> "But that trick never works!"
+>
+> "This time for sure! Presto!"
+>
+> (Pulls out %s)
+>
+> RAWWWWR
+>
+> "Oops! Wrong hat!"
+
+https://www.youtube.com/watch?v=pc4IFIXcDcs
 
 사망플래그
+
+애니메이션의 주인공이 매번 되지도 않는 마술한답시고 도전하는데 친구의 계속 되는 면박에도 "This time for sure!" 를 외치면서 시도하고 또 망하는 패턴을 보여주는데에서 유래.
 
 특히 주변에 사람을 세워놓고 디버깅하면 좀 미안하기도 하고해서 저런 주문을 자주 외우곤 한다.
 

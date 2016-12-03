@@ -72,7 +72,7 @@ The QA Killjoy
 
 마이크로소프트가 자체 오픈소스 코드를 발표하는 등 변화를 보이면서 많은 사람들의 적대감이 사라졌다. 그러나 전부 다 그런 것은 아니다.
 
-## 자전거 거치대 {#Bike-shedder}
+## 자전거 거치대 전문가 {#Bike-shedder}
 
 Bike-shedder
 
