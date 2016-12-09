@@ -1,6 +1,5 @@
 # 미분류 비유 {#unclassified-tropes}
 
-
 ## 튜링 테스트 {#Turing-test}
 
 Turing test
@@ -9,6 +8,14 @@ Turing test
 
 ## 카맥 테스트 {#Carmack-test}
 존 카맥의 업적 --- 디스플레이와 입력장치가 있는 모든 컴퓨터라고 불릴 수 있을 것 같은 장치가 컴퓨터인지 확인 하는 수단으로 쓰이는 둠을 개발.
+
+## I get paid not for tests {#I-get-paid-not-for-tests}
+
+> I get paid for code that works, not for tests
+>
+> --- Kent Beck
+
+[Original post](http://stackoverflow.com/questions/153234/how-deep-are-your-unit-tests/153565#153565)
 
 ## 비행기 법칙 {#airplane-rule}
 Airplane rule
