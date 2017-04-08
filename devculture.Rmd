@@ -71,31 +71,21 @@ https://pbs.twimg.com/media/CMyiLuKUwAA6l-V.jpg
 
 http://rayspace.tistory.com/543
 
-## 루드 골드버그식 기계 {#Rube-Goldberg-machine}
-
-http://www.theleonardo.org/wp-content/uploads/2015/05/rube-goldberg.jpg
-
-되게 간단한 문제를 굉장히 복잡한 방법으로 해결하는 제품을 의미한다.
-루드 골드버그라는 만화가가 흔히 만화 내에 등장시키곤 했던 기계들이 어원
-
-## Anti-pattern {#Anti-pattern}
-
-해당 문제를 더 어렵고 비효율적으로 푸는 방법론
-
-* [evil](#evil)
-* [Rube Goldberg machine](#Rube-Goldberg-machine)
-
 ## 브로그래머 {#Brogrammer}
 
 Brogrammer (BROther + proGRAMMER) 혹은 techbro
 
-Bro 의 성향을 가진 프로그래머
+Bro 의 성향을 가진 프로그래머.
 
-### 배경
-개발자들 수요가 늘어나고 소득수준이 높아지고 결정적으로 그 이외의 직업들 숫자 자체가 줄어들면서 기존 Nerd 혹은 Geek 들이 모여있던 세계에 Bro 들이 진입하기 시작한다. 이성들에게 마초짓하고 육체미에 신경쓰고 파티에 열중하는 사람들은 보통 개발자를 직업으로 선택하지 않았기 때문에 다른 직업에는 어디에나 있을 이들의 존재 자체가 특이한 명칭을 얻게된 셈.
+### 배경 {-}
 
-### 여성이슈 관련
+개발자들 수요가 늘어나면서 그들의 소득수준이 높아지고, 결정적으로 그 이외의 직업들 숫자 자체가 줄어들면서 기존 Nerd 혹은 Geek 들이 모여있던 세계에 Bro 들이 진입하기 시작한다. 이성들에게 마초짓하고 육체미에 신경쓰고 파티에 열중하는 사람들은 보통 개발자를 직업으로 선택하지 않았기 때문에 다른 직업에는 어디에나 있을 이들의 존재 자체가 특이한 명칭을 얻게된 셈.
+
+### 여성이슈 관련 {-}
+
 > Want to bro down and crush some code? Klout is hiring.
+>
+> Klout 의 구인 공고. 엄청난 항의를 받았다.
 
 개발 직군에 여성들도 많이 들어오게 되면서 해당 언어에 개발직군 특유의 남초현상, 그리고 해당 남초현상에서 비롯한 미소지니 문제와 관련된 언어로 쓰이는 추세기도 하다.
 

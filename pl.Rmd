@@ -27,10 +27,34 @@ Esoteric language 에 한정해서 그 기괴함을 알리기 위한 광고효�
 
 개발 환경과 생산성이 좋아진 요즘에는 단순한 stdout 출력은 잘 쓰이지 않는다. 가령 3분만에 게시물 만들기 같은 식으로 과거와 달리 엄청난 생산성을 보여주는 프로그램들이 이를 대체하고 있다. 하지만 눈에 보이는 결과물을 통해 소프트웨어에 익숙해지게 한다는 본질은 변하지 않는다.
 
-### 같이 보기
+### 같이 보기 {-}
 
 * [헬로월드 언어별 모음](http://helloworldcollection.de/)
 * [나 아이돌 그만둘래!](https://github.com/xnuk/idoru-yameru)
+
+## 99 Bottles of Beer {#Ninety_nine_Bottles_of_Beer}
+
+> 99 bottles of beer on the wall, 99 bottles of beer.
+>
+> Take one down and pass it around, 98 bottles of beer on the wall.
+>
+> ...
+>
+> 1 bottle of beer on the wall, 1 bottle of beer.
+>
+> Take one down and pass it around, No more bottles of beer on the wall.
+>
+> No more bottles of beer on the wall, no more bottles of beer.
+>
+> Go to the store and buy some more, 99 bottles of beer on the wall.
+
+프로그래밍 구현 문제. 그냥 99개부터 0개까지 찍는거다.
+피라미드 만들기처럼 문자열 출력과 loop 를 결합한 기초 문제이다.
+하지만 한국에서는 영어의 압박때문인지 잘 접하지 못한다.
+
+### 같이 보기 {-}
+
+* www.99-bottles-of-beer.net
 
 ## 0번째 {#zeroth}
 일상어로 첫번째를 의미. C나 리스프 같은 초기 언어는 물론 하드웨어부터 1이 아니라 0부터 세는데 익숙해지다보니 저렇게 표현하곤 한다. 가령 0-255 는 일상어로 1-256을 의미한다.
@@ -58,8 +82,3 @@ C 계열 언어에서 주로 사용. 예외라면 ObjC 가 있다.
 완벽한 언어. 해당 언어외 다른 언어를 고려할 여지가 없다는 식의 압도적인 강점을 보유하고 있는 언어를 말한다.
 
 실제로는 엉망인 언어를 비꼬는 경우가 많다. [참조](https://www.google.se/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiD4PSJtcHQAhXMB8AKHSKmCgkQFggcMAA&url=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F788997459406000129&usg=AFQjCNGGG5if_BDRhoGbbmlCGb1-9NcXSQ)
-
-## php {#php}
-
-* http://noraesae.github.io/PHP-a-fractal-of-bad-design-kr/
-* https://www.tokyobranch.net/archives/6693
