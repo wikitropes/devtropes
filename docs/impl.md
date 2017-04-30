@@ -49,7 +49,6 @@ str_temp <- as.character(mean_temp)
 유닉스쉘의 경우 파이프라인, R의 경우 아래와 같이 `magrittr` 을 이용하면 된다.
 
 
-
 ```r
 library(magrittr)
 1:5 %>% as.integer %>% abs %>% mean %>% as.character
