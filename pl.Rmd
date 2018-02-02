@@ -76,9 +76,15 @@ C 계열 언어에서 주로 사용. 예외라면 ObjC 가 있다.
 ## kebab-case {#kebab-case}
 [snake_case](#snake_case)와 유사하나`underscores` 대신에 `hyphens`을 사용하는 경우 `kebab-case` 라고 한다. 주로 Lisp 에서 사용한다.
 
+## FizzBuzz {#FizzBuzz}
+
+어린이 놀이에서 기원한 프로그래밍 문제풀이. [초등학생을 위한 놀이](https://en.wikipedia.org/wiki/Fizz_buzz)에서 기원되었다. 해당 놀이는 369와 비슷하게 보이지만 순발력보다는 나누기를 학습시키기 위한 교육적인 목적이 있다.
+
+프로그래밍 문제 풀이에서는 조건문 사용방식과 배치를 잘 쓰는지를 확인하기 위한 용도이다.
+
+* [FizzBuzz 테스트와 if-elseif-else와 사건의 배타적 분할](https://jeongjm.postype.com/post/25717)
+
 ## 갓언어 {#god-language}
 ~~파이썬은 망해가는 언어이고 PHP는 부활해서 1위를 탈환할 언어다~~
 
-완벽한 언어. 해당 언어외 다른 언어를 고려할 여지가 없다는 식의 압도적인 강점을 보유하고 있는 언어를 말한다.
-
-실제로는 엉망인 언어를 비꼬는 경우가 많다. [참조](https://www.google.se/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiD4PSJtcHQAhXMB8AKHSKmCgkQFggcMAA&url=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F788997459406000129&usg=AFQjCNGGG5if_BDRhoGbbmlCGb1-9NcXSQ)
+완벽한 언어. 해당 언어외 다른 언어를 고려할 여지가 없다는 식의 압도적인 강점을 보유하고 있는 언어를 말한다......가 아니라 엉망인 언어를 비꼬는 말이다. [참조](https://www.google.se/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiD4PSJtcHQAhXMB8AKHSKmCgkQFggcMAA&url=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F788997459406000129&usg=AFQjCNGGG5if_BDRhoGbbmlCGb1-9NcXSQ)

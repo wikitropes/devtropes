@@ -11,6 +11,7 @@ __데브트로프__ 에 오신 것을 환영합니다. 데브트로프 (Dev Trop
 
 해당 위키는 누구나 [수정](https://github.com/wikitropes/devtropes/edit/master/index.Rmd)가능하며, 문의는 [여기](https://github.com/wikitropes/devtropes/issues/new)로 주시면 됩니다. 다만 GitHub 아이디가 필요합니다.
 
-이 위키는 무엇보다도 그냥 재미를 목적으로 존재한다는 걸 잊지 않아주셨으면 합니다. 너무 진지해지지 마세요.
+이 위키는 무엇보다도 그냥 재미를 목적으로 존재한다는 걸 잊지 않아주셨으면 합니다.
+너무 진지해지지 마세요.
 
 그럼 재밌게 즐겨주세요.
